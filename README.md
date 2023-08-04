@@ -1,4 +1,4 @@
-# MEARN Stack File Sharing App
+# MEAN Stack File Sharing App
 During the coding training at **CodeClause** I made a File Sharing App to enhance my skills.
 ## Getting Started
 
