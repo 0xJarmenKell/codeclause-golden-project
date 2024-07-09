@@ -7,7 +7,7 @@ const DBConnection = async () => {
     const USERNAME = process.env.DB_USERNAME;
     const PASSWORD = process.env.DB_PASSWORD;
 
-    const MONGO_URI = `mongodb+srv://xxxxxx@file-sharing-project.6bvptsc.mongodb.net/`;
+    const MONGO_URI = `mongodb+srv://x01015329x@file-sharing-project.6bvptsc.mongodb.net/test`;
     try {
         await mongoose.connect(MONGO_URI, { useNewUrlParser: true });
         console.log('Database connected successfully');
